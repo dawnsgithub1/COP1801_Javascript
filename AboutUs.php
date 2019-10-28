@@ -1,11 +1,12 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="projectsyles.css">
-  <title>Home</title>
+  <title>AboutUs</title>
 </head>
 <body>
   <nav class="navbar navbar-default">
@@ -19,8 +20,8 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="Index.html">Home</a></li>
-        <li><a href="AboutUs.php"target="_blank">About Us</a></li>
+        <li><a href="Index.html">Home</a></li>
+        <li class="active"><a href="AboutUs.php"target="_blank">About Us</a></li>
         <li><a href="MusicOpportunities.php"target="_blank">Music Opportunities</a></li>
         <li><a href="Events.php"target="_blank">Events</a></li>
         <li><a href="ContactUs.php"target="_blank">Contact Us</a></li>
@@ -61,7 +62,8 @@
 </div>
 <div class="footer">
   <h6 align="left"><font face="verdana" size="1" color=#FBF8EF>&copy;Dawn Scott NFDL Musicical WebPage</h6>
-  <h6 align="center"><font face="verdana" size="5" color=#FBF8EF>HOME</h6>
+  <h6 align="center"><font face="verdana" size="5" color=#FBF8EF>About Us</h6>
+
 </div>
 </body>
 </html>

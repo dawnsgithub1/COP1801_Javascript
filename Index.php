@@ -19,7 +19,7 @@
   <nav class="navbar navbar-default">
     <div class="container-fluid">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="Index.html">Home</a></li>
+        <li class="active"><a href="Index.php">Home</a></li>
         <li><a href="AboutUs.php"target="_blank">About Us</a></li>
         <li><a href="MusicOpportunities.php"target="_blank">Music Opportunities</a></li>
         <li><a href="Events.php"target="_blank">Events</a></li>
@@ -62,6 +62,7 @@
 <div class="footer">
   <h6 align="left"><font face="verdana" size="1" color=#FBF8EF>&copy;Dawn Scott NFDL Musicical WebPage</h6>
   <h6 align="center"><font face="verdana" size="5" color=#FBF8EF>HOME</h6>
+
 </div>
 </body>
 </html>

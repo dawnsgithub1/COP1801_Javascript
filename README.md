@@ -1,2 +1,2 @@
-# COP1801_Javascript
-Dawn Scott
+# Project2
+ 
